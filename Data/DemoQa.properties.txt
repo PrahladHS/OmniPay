@@ -1,0 +1,6 @@
+browser chrome
+url https://demoqa.com/login
+firstname two
+lastname four
+username Three
+password Dash@420
